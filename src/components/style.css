@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.SignIn{
+    display: flex;
+    flex-direction: column;
+    width: 30vw;
+    padding: 20px ;
+    gap: 5px;
+}
+
+.createMov{
+    display: flex;
+    flex-direction: column;
+    width: 30vw;
+    padding: 20px;
+    gap: 5px;
+}
+
+.Movie{
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+    padding-left: 5px;
+}
+
+.Movie button{
+    width: 100px;
+}
+
+.Movie input{
+    width: 100px;
+}
